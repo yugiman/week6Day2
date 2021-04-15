@@ -1,0 +1,22 @@
+body{
+    background-color:#eeeeee;
+    display: flex;
+    justify-content: center;
+}
+.start{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width:50%;
+}
+.square{
+    width: 150px;
+    height: 150px;
+    background-color: #333;
+    margin:25px;
+    
+}
+.squareClicked{
+    background-color: #999;
+}
